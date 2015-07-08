@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btQrCode">
+        <field name="bID" type="I">
+            <key/>
+            <unsigned/>
+        </field>
+        <field name="text" type="X2"></field>
+        <field name="size" type="I"></field>
+        <field name="padding" type="I"></field>
+        <field name="error_correction" type="C" size="255"></field>
+        <field name="foreground_color" type="C" size="255"></field>
+        <field name="background_color" type="C" size="255"></field>
+        <field name="label" type="C" size="255"></field>
+        <field name="label_font_size" type="I"></field>
+    </table>
+</schema>
