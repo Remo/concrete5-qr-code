@@ -1,0 +1,75 @@
+msgid ""
+msgstr "Project-Id-Version: qr_code 0.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-17 10:50+0000\n"
+"MIME-Version: 1.0\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+
+#: packages/qr_code/blocks/qr_code/controller.php:20
+#: packages/qr_code/controller.php:15
+msgid "QR Code"
+msgstr ""
+
+#: packages/qr_code/controller.php:20
+msgid "A package to insert QR codes into your website"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/controller.php:25
+msgid "Inserts a QR Code into your website"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:5
+msgid "Text"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:10
+msgid "Size"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:15
+msgid "Padding"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:20
+msgid "Error correction"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "Low"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "Medium"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "Quartile"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "High"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:27
+msgid "Foreground Color"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:34
+msgid "Background Color"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:41
+msgid "Label"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/form.php:46
+msgid "Label Font Size"
+msgstr ""
+
+#: packages/qr_code/blocks/qr_code/view.php:6
+msgid "Please enter a text to see a QR code"
+msgstr ""

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: qr_code 0.9.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-17 10:50+0000\n"
+"PO-Revision-Date: 2015-07-17 12:52+0100\n"
+"Last-Translator: Remo Laubacher <remo.laubacher@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Language: de_DE\n"
+"X-Generator: Poedit 1.7.5\n"
+
+#: packages/qr_code/blocks/qr_code/controller.php:20
+#: packages/qr_code/controller.php:15
+msgid "QR Code"
+msgstr "QR Code"
+
+#: packages/qr_code/controller.php:20
+msgid "A package to insert QR codes into your website"
+msgstr "Ermöglicht es einen QR Code einzufügen"
+
+#: packages/qr_code/blocks/qr_code/controller.php:25
+msgid "Inserts a QR Code into your website"
+msgstr "QR Code einfügen"
+
+#: packages/qr_code/blocks/qr_code/form.php:5
+msgid "Text"
+msgstr "Text"
+
+#: packages/qr_code/blocks/qr_code/form.php:10
+msgid "Size"
+msgstr "Grösse"
+
+#: packages/qr_code/blocks/qr_code/form.php:15
+msgid "Padding"
+msgstr "Abstand"
+
+#: packages/qr_code/blocks/qr_code/form.php:20
+msgid "Error correction"
+msgstr "Fehlerkorrektur"
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "Low"
+msgstr "gering"
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "Medium"
+msgstr "mittel"
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "Quartile"
+msgstr "gross"
+
+#: packages/qr_code/blocks/qr_code/form.php:22
+msgid "High"
+msgstr "sehr gross"
+
+#: packages/qr_code/blocks/qr_code/form.php:27
+msgid "Foreground Color"
+msgstr "Vordergrundfarbe"
+
+#: packages/qr_code/blocks/qr_code/form.php:34
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: packages/qr_code/blocks/qr_code/form.php:41
+msgid "Label"
+msgstr "Beschriftung"
+
+#: packages/qr_code/blocks/qr_code/form.php:46
+msgid "Label Font Size"
+msgstr "Schriftgrösse der Beschriftung"
+
+#: packages/qr_code/blocks/qr_code/view.php:6
+msgid "Please enter a text to see a QR code"
+msgstr "Bitte Text eingeben um QR Code zu sehen"
