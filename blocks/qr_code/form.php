@@ -19,7 +19,7 @@ $color = Core::make('helper/form/color');
 <div class="form-group">
     <?= $form->label('error_correction', t('Error correction')) ?>
     <?= $form->select('error_correction',
-        ['low' => t('Low'), 'medium' => t('Medium'), 'quartile' => t('Quartile'), 'high' => t('High')],
+        array('low' => t('Low'), 'medium' => t('Medium'), 'quartile' => t('Quartile'), 'high' => t('High')),
         $error_correction) ?>
 </div>
 

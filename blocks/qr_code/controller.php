@@ -9,7 +9,7 @@ class Controller extends BlockController
     protected $btTable = 'btQrCode';
     protected $btInterfaceWidth = "500";
     protected $btInterfaceHeight = "365";
-    protected $helpers = ['form'];
+    protected $helpers = array('form');
 
     protected $btCacheBlockOutput = true;
     protected $btCacheBlockOutputOnPost = true;
@@ -32,11 +32,11 @@ class Controller extends BlockController
 
         $colorValues = preg_split('[,]', $colorString);
 
-        return [
+        return array(
             'r' => $colorValues[0],
             'g' => $colorValues[1],
             'b' => $colorValues[2],
-        ];
+        );
     }
 
     public function view()

@@ -8,7 +8,7 @@ class Controller extends Package
 {
     protected $pkgHandle = 'qr_code';
     protected $appVersionRequired = '5.7.4.2';
-    protected $pkgVersion = '0.9.0';
+    protected $pkgVersion = '0.9.1';
 
     public function getPackageName()
     {
@@ -38,11 +38,6 @@ class Controller extends Package
     {
         parent::upgrade();
         $this->installXmlContent();
-    }
-
-    public function on_start()
-    {
-
     }
 
 }
