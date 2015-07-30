@@ -3,7 +3,7 @@ $color = Core::make('helper/form/color');
 ?>
 <div class="form-group">
     <?= $form->label('text', t('Text')) ?>
-    <?= $form->text('text', $text, array('maxlength' => 255])) ?>
+    <?= $form->text('text', $text, array('maxlength' => 255)) ?>
 </div>
 
 <div class="form-group">
